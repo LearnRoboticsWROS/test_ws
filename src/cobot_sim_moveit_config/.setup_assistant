@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: cobot_sim
+    relative_path: urdf/cobot.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/cobot.srdf
+  CONFIG:
+    author_name: learnroboticswithros
+    author_email: ros.master.ai@gmail.com
+    generated_timestamp: 1712312377

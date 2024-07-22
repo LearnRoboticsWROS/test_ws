@@ -1,0 +1,8 @@
+prefix=/home/ros/test_ws/devel
+
+Name: ur_yt_moveit_config
+Description: Description of ur_yt_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

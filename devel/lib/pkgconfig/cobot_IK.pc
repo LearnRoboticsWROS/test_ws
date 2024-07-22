@@ -1,0 +1,8 @@
+prefix=/home/ros/test_ws/devel
+
+Name: cobot_IK
+Description: Description of cobot_IK
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

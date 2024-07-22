@@ -1,0 +1,8 @@
+prefix=/home/ros/test_ws/devel
+
+Name: industrial_environment
+Description: Description of industrial_environment
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
